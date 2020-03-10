@@ -13,5 +13,6 @@
 
 
 ## Two modules
-	- As mentioned above, I'll be creating two SystemC components: a MAC and a Descriptor Based DMA.		     The purpose of these two modules is to give me an understanding of how SystemC syntax and communication		work. Along with the two modules, I'll be creating two test benches to validate that the modules are 
-	  behaving correctly. 
+	- As mentioned above, I'll be creating two SystemC components: a MAC and a Descriptor Based DMA. The purpose 
+	 of these two modules is to give me an understanding of how SystemC syntax and communication work. Along with 
+	 the two modules, I'll be creating two test benches to validate that the modules are  behaving correctly. 
